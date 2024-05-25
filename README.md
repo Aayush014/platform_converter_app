@@ -98,7 +98,7 @@ Contributions are welcome! If you'd like to contribute to the development of Pla
 
 ## Support
 
-For any inquiries or issues regarding Platform Converter, feel free to contact our support team at [support@platformconverter.com](mailto:support@platformconverter.com). We're here to assist you and ensure you have the best possible experience with our app.
+For any inquiries or issues regarding Platform Converter, feel free to contact our support team at [aayushpatel01411@gmail.com](mailto:aayushpatel01411@gmail.com). We're here to assist you and ensure you have the best possible experience with our app.
 
 ## License
 
